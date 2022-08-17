@@ -9,7 +9,7 @@ Hi, My name is Aaron Desler. I am a Business Administration & Digital Business u
 
 I'm a software engineer currently working for Deutsche Bank AG.
 
-In my spare time, I love learning about new technologies. Besides programming, I enjoy books and podcasts, and sports.
+In my spare time, I love learning about new technologies. Besides programming, I enjoy books, Lex Friedman's and Andrew Huberman's podcasts, and sports.
 
   
 **Language and Tools:** 
