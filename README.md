@@ -5,11 +5,10 @@
 [![Website](https://img.shields.io/badge/-Website-blue?style=flat&logo=website&logoColor=white)](https://aaron-desler.org)
 <br/>
 
-Hi, My name is Aaron Desler. I am a Business Administration & Digital Business undergraduate from the Frankfurt School of Finance and Management. 
+Hi, my name is Aaron Desler. I studied Business Administration & Digital Business at the Frankfurt School of Finance and Management and did a two-year apprenticeship in Application Development at Deutsche Bank. 
+Currently I'm working as a Software Engineer at Deutsche Bank AG.
 
-I'm a software engineer currently working for Deutsche Bank AG.
-
-In my spare time, I love learning about new technologies. Besides programming, I enjoy books, Lex Friedman's and Andrew Huberman's podcasts, and sports.
+In my spare time, I like learning about new technologies. Besides programming, I enjoy books, Lex Friedman's and Andrew Huberman's podcasts, and all the sports.
 
   
 **Language and Tools:** 
